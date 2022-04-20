@@ -1,0 +1,320 @@
+body{
+    background: black;
+    animation-name: fade-in;
+    animation-duration: 2s;
+}
+.h1{
+    text-align: center;
+    color: white;
+}
+.h-500{
+    height: 500px;
+}
+.h-550{
+    height: 550px;
+}
+.h-300{
+    height: 300px;
+}
+.h-400{
+    height: 400px;
+}
+.h-250{
+    height: 250px;
+}
+.h-270{
+    height: 270px;
+}
+.w-450{
+    width: 450;
+}
+.w-400{
+    width: 400px;
+}
+.w-300{
+    width: 300px;
+}
+.w-330{
+    width: 330px;
+}
+.w-340{
+    width: 340px;
+}
+.w-350{
+    width: 350px;
+}
+.box1{
+    margin-left: 20px;
+}
+.box2{
+    margin-left: 230px;
+    margin-top: -225px;
+}
+.box3{
+    margin-left: 390px;
+    margin-top: -335px;
+}
+.box5{
+    margin-left: 20px;
+    margin-top: -180px;
+}
+.box6{
+    margin-left: 185px;
+    margin-top: -290px;
+}
+.box8{
+    margin-left: 410px;
+    margin-top: -430px;
+}
+.box10{
+    margin-left: 20px;
+    margin-top: -190px;
+}.box11{
+    margin-left: 200px;
+    margin-top: -220px;
+}
+.box12{
+    margin-left: 390px;
+    margin-top: -370px;
+}
+.box13{
+    margin-left: 20px;
+    margin-top: -185px;
+}
+.box14{
+    margin-left: 230px;
+    margin-top: -320px;
+}
+.box15{
+    margin-left: 400px;
+    margin-top: -390px;
+}
+.box16{
+    margin-left: 20px;
+    margin-top: -135px;
+}
+.box17{
+    margin-left: 220px;
+    margin-top: -210px;
+}
+.box18{
+    margin-left: 400px;
+    margin-top: -250px;
+}
+.box19{
+    margin-left: 220px;
+    margin-top: -210px;
+}
+.box20{
+    margin-left: 20px;
+    margin-top: -220px;
+}
+.box21{
+    margin-left: 20px;
+    margin-top: -100px;
+}
+.box22{
+    margin-left: 240px;
+    margin-top: -350px;
+}
+.box23{
+    margin-left: 430px;
+    margin-top: -400px;
+}
+.box24{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.box25{
+    margin-left: 445px;
+    margin-top: -250px;
+}
+.box26{
+    margin-left: 230px;
+    margin-top: -190px;
+}
+.box27{
+    margin-left: 20px;
+    margin-top: -110px;
+}
+.box28{
+    margin-left: 445px;
+    margin-top: -320px;
+}
+.box29{
+    margin-left: 215px;
+    margin-top: -240px;
+}
+.box30{
+    margin-left: 20px;
+    margin-top: -300px;
+}
+.box31{
+    margin-left: 20px;
+    margin-top: -90px;
+}
+.box32{
+    margin-left: 430px;
+    margin-top: -680px;
+}
+.box35{
+    margin-left: 431px;
+    margin-top: -100px;
+}
+.box34{
+    margin-left: 225px;
+    margin-top: -150px;
+}
+.box36{
+    margin-left: 430px;
+    margin-top: -215px;
+}
+.box37{
+    margin-left: 20px;
+    margin-top: -80px;
+}
+.box38{
+    margin-left: 230px;
+    margin-top: -160px;
+}
+.box39{
+    margin-left: 20px;
+    margin-top: -70px;
+}
+.box41{
+    margin-left: 420px;
+    margin-top: -320px;
+}
+.box43{
+    margin-left: 220px;
+    margin-top: -270px;
+}
+.box45{
+    margin-left: 410px;
+    margin-top: -270px;
+}
+.box46{
+    margin-left: 20px;
+    margin-top: -330px;
+}
+.box47{
+    margin-left: 430px;
+    margin-top: -350px;
+}
+.box49{
+    margin-left: 20px;
+    margin-top: -130px;
+}
+.box51{
+    margin-left: 230px;
+    margin-top: -340px;
+}
+.box52{
+    margin-left: 420px;
+    margin-top: -370px;
+}
+.box54{
+    margin-left: 230px;
+    margin-top: -90px;
+}.box56{
+    margin-left: 425px;
+    margin-top: -230px;
+}
+.box57{
+    margin-left: 20px;
+    margin-top: -135px;
+}
+.box58{
+    margin-left: 210px;
+    margin-top: -150px;
+}
+.box59{
+    margin-left: 415px;
+    margin-top: -350PX;
+}
+.box61{
+    margin-left: 20px;
+    margin-top: -300px;
+}
+.box62{
+    margin-left: 210px;
+    margin-top: -135px;
+}
+.box63{
+    margin-left: 420px;
+    margin-top: -400px;
+}
+.box64{
+    margin-left: 20px;
+    margin-top: -170px;
+}
+.box65{
+    margin-left: 410px;
+    margin-top: -300px;
+}
+.box66{
+    margin-left: 210px;
+    margin-top: -460px;
+}
+.box67{
+    margin-left: 20px;
+    margin-top: -70px;
+}
+.box68{
+    margin-left: 210px;
+    margin-top: -250px;
+}
+.box69{
+    margin-left: 410px;
+    margin-top: -280px;
+}
+.box7{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.index{
+    margin-top: 120px;
+}
+.index > li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}  
+a:hover{
+    color: gold;
+    transition: 1s all;
+    text-decoration: underline;
+}  
+.search{
+    height: 40px;
+    width: 300px;
+    margin-left: 380px;
+    margin-top: -100px;
+}
+.comment{
+    margin-left: 10px;
+}
+.think{
+    margin-left: 150px;
+}
+.submit{
+    color: black;
+}
+.submit:hover{
+    color: red;
+    transition: 1.5s all;
+}
+.value{
+    height: 40px;
+    width: 70px;
+    text-align: center;
+}
+.value:hover{
+    color: red;
+    transition: 1.5s all;
+}
+@keyframes fade-in{
+    from{opacity: 0};
+    to{opacity: 0};
+}
